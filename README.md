@@ -10,8 +10,8 @@ I'm a dedicated and growth-driven **Full Stack Developer** skilled in building s
 - **Deployment**: Netlify, Render
 
 ### 🚀 Projects
-- **[Fitness Tracker Web App](https://github.com/Sumitha2502/FE-FitnessTracker)**: A full-stack application for tracking workouts using MERN stack.
-- **[E-commerce Automation Testing](https://github.com/Sumitha2502)**: Automated testing of workflows using Selenium and Java.
+- **[Fitness Tracker Web App]**: A full-stack application for tracking workouts using MERN stack.
+- **[E-commerce Automation Testing]**: Automated testing of workflows using Selenium and Java.
 
 ### 📫 Contact
 - **Email**: [sumitha0996@gmail.com](mailto:sumitha0996@gmail.com)
